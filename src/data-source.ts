@@ -1,4 +1,5 @@
 import { DataSource } from "typeorm"
+import 'dotenv/config'
 
 export const AppDataSource = new DataSource({
     "type": "sqlite",
@@ -15,5 +16,5 @@ AppDataSource.initialize()
         console.log("Data Source Sqlite Inicializada com sucesso!")
     })
     .catch((err) => {
-        console.error("Error during Data Source Sqlite initialization", err)
+        console.error("Error durante inicialização Data Source Sqlite", err)
     })

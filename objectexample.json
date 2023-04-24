@@ -1,0 +1,48 @@
+{
+    "client": {
+        "nome": "evandro",
+        "login": "pts12212",
+        "plano": "CASA INTELIGENTE 1GB WIFI 6E MESH 360"
+    },
+    "network_doc": {
+        "estacao": "PTS-EST1",
+        "area": "A2",
+        "cto": 14,
+        "porta": 13,
+        "potencia_cto": 233
+    },
+    "network_actives": {
+        "modelo_ont": "HG8045H",
+        "serial_ont": "23",
+        "modelo_roteador": "WS5200",
+        "serial_roteador_1": "233",
+        "serial_roteador_2": "23",
+        "serial_roteador_3": "23"
+    },
+    "material_used": {
+        "fibra": 23,
+        "alca": 23,
+        "nylon": 232,
+        "pto": 23,
+        "cabo_utp": 23,
+        "fixa_fio": 23,
+        "conector_rj45": 23,
+        "conector_apc": 23,
+        "conector_upc": 23,
+        "cordao_apc_apc": 23,
+        "cordao_apc_upc": 23
+    },
+    "client_config": {
+        "client_ssid": "2323",
+        "client_pass": "2323",
+        "client_ipv6": true,
+        "roteador_preset": true,
+        "desmembrar_wifi5": true,
+        "tecnicos": "2323",
+        "obs": "2323"
+    },
+    "position": {
+        "lat": -22.515887094605862,
+        "lng": -43.16691398620606
+    }
+}

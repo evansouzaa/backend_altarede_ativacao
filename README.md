@@ -2,7 +2,7 @@
  Back-end da aplicação altarede_ativacao
 
 install project dependencies
-``npn i``
+``npm i``
 
 running project
 ``npm run dev``
